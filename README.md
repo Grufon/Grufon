@@ -1,16 +1,28 @@
-## Hi there 👋
+# ERENZO Association
 
-<!--
-**Grufon/Grufon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Extraterrestrial Intelligence Research Association
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The ERENZO Association is a non-profit research organization based in Greece, focused on the systematic and scientific study of Unidentified Anomalous Phenomena (UAP).
+
+## Official Publication
+
+Official Position Statement on UAP Research (2026)  
+https://doi.org/10.5281/zenodo.19560097
+
+## Platform
+
+GRUFON – Greek UFO Network  
+https://www.grufon.org
+
+## Research Focus
+
+- Evidence-based UAP analysis  
+- Data collection and documentation  
+- European research collaboration  
+- Open scientific inquiry  
+
+## Contact
+
+contact@grufon.org
