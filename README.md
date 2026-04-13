@@ -1,28 +1,27 @@
-# ERENZO Association
+# ERENZO UAP Research Repository
 
-Extraterrestrial Intelligence Research Association
+Official research documents and publications of the ERENZO Association.
 
-## About
+## 📄 Official Position Statement
 
-The ERENZO Association is a non-profit research organization based in Greece, focused on the systematic and scientific study of Unidentified Anomalous Phenomena (UAP).
+[Download PDF](documents/position/ERENZO_Official_Position_UAP_2026.pdf)
 
-## Official Publication
+## 🔗 DOI (Zenodo)
 
-Official Position Statement on UAP Research (2026)  
 https://doi.org/10.5281/zenodo.19560097
 
-## Platform
+## 🌐 Platform
 
 GRUFON – Greek UFO Network  
 https://www.grufon.org
 
-## Research Focus
+## 📌 Scope
 
-- Evidence-based UAP analysis  
+- UAP research and analysis  
 - Data collection and documentation  
 - European research collaboration  
-- Open scientific inquiry  
+- Scientific methodology  
 
-## Contact
+## 📧 Contact
 
 contact@grufon.org
