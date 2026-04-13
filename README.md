@@ -25,3 +25,10 @@ https://www.grufon.org
 ## 📧 Contact
 
 contact@grufon.org
+
+## Related European Context
+
+This work aligns with ongoing discussions on research infrastructure and stigma in emerging scientific fields such as UAP.
+
+See:
+Feedback on the European Strategy on Research and Technology Infrastructures (2025)
